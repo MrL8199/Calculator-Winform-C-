@@ -1,0 +1,10 @@
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\bin\Debug\CalculatorFull.exe.config
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\bin\Debug\CalculatorFull.exe
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\bin\Debug\CalculatorFull.pdb
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.csprojAssemblyReference.cache
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.Form1.resources
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.Properties.Resources.resources
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.csproj.GenerateResource.cache
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.csproj.CoreCompileInputs.cache
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.exe
+C:\Users\dinhv\source\repos\ViDuTrenLop_WinForm\CalculatorFull\obj\Debug\CalculatorFull.pdb
