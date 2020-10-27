@@ -1,2 +1,2 @@
 # Calculator-Winform-C-
-:))) bắt chước của win10 nhưng không ăn thua
+Dựa trên ý tưởng Calculator của windows 10
